@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_958569_biblio.book_user" name="x_958569_biblio.book_user">0e779633878e82d03a37ec283cbb3588</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 17:12:15</sys_created_on>
+        <sys_id>42779633878e82d03a37ec283cbb358c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0e779633878e82d03a37ec283cbb3588</sys_name>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_42779633878e82d03a37ec283cbb358c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 17:12:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
