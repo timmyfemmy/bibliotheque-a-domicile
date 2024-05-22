@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="82271a33878e82d03a37ec283cbb35de" label="Book" max_length="40" name="x_958569_biblio_book" type="collection"/>
+    <element db_object_id="82271a33878e82d03a37ec283cbb35de" label="Book" max_length="40" name="x_958569_biblio_book" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Book ID" max_length="40" name="book_id" read_only="true" type="string"/>
+    </element>
 </database>

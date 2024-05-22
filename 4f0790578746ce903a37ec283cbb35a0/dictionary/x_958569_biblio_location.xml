@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="14335b7787c2c2d03a37ec283cbb35ce" extends="cmn_location" label="Location" max_length="40" name="x_958569_biblio_location" type="collection"/>
+</database>

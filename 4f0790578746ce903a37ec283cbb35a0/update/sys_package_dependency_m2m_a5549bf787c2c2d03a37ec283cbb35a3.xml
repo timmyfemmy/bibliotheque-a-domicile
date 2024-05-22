@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (apps/system_user)" source="apps/system_user">b6bac820d9313110cedf7dffddb48fa2</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 21:38:11</sys_created_on>
+        <sys_id>a5549bf787c2c2d03a37ec283cbb35a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 21:38:11</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

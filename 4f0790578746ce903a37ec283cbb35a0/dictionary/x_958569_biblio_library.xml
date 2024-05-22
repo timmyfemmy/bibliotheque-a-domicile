@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fda29b3787c2c2d03a37ec283cbb3529" label="Library" max_length="40" name="x_958569_biblio_library" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Library ID" max_length="40" name="library_id" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Location" max_length="32" name="location" reference="x_958569_biblio_location" type="reference"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

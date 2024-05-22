@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7dee9eb3878e82d03a37ec283cbb3505" label="Book copy" max_length="40" name="x_958569_biblio_book_copy" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Copy ID" max_length="40" name="copy_id" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Title" max_length="32" name="title" reference="x_958569_biblio_book" reference_cascade_rule="restrict" type="reference"/>
+        <index name="index">
+            <element name="title"/>
+        </index>
+    </element>
+</database>
