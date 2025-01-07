@@ -16,12 +16,13 @@
         <logo>570750578746ce903a37ec283cbb35fe</logo>
         <menu/>
         <name>Bibliothèque à domicile</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_958569_biblio</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>A digital display of library of books in donor/patron homes</short_description>
+        <short_description>A digital display of library of books in custodian homes.</short_description>
         <source>x_958569_biblio</source>
         <store_correlation_id/>
         <store_url/>
@@ -31,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-13 18:34:12</sys_created_on>
         <sys_id>4f0790578746ce903a37ec283cbb35a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-13 18:34:13</sys_updated_on>
+        <sys_updated_on>2025-01-07 05:52:10</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
