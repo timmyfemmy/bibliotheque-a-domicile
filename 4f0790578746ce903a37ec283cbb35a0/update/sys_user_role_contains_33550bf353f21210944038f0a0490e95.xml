@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_958569_biblio.user" name="x_958569_biblio.user">2c185c1f8746ce903a37ec283cbb3510</contains>
+        <role display_value="x_958569_biblio.librarian" name="x_958569_biblio.librarian">58185c1b8746ce903a37ec283cbb35c1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 23:31:03</sys_created_on>
+        <sys_id>33550bf353f21210944038f0a0490e95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_958569_biblio.user.x_958569_biblio.librarian</sys_name>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</sys_scope>
+        <sys_update_name>sys_user_role_contains_33550bf353f21210944038f0a0490e95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 23:31:03</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

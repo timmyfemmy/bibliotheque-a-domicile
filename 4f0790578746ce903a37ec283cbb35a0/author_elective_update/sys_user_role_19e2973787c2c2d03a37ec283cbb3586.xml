@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_958569_biblio.library_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>library_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 21:31:53</sys_created_on>
+        <sys_id>19e2973787c2c2d03a37ec283cbb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_958569_biblio.library_user</sys_name>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</sys_scope>
+        <sys_update_name>sys_user_role_19e2973787c2c2d03a37ec283cbb3586</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 21:31:53</sys_updated_on>
+    </sys_user_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</application>
+        <file_path/>
+        <instance_id>8a2e87071bb9429839a54089bd4bcb9d</instance_id>
+        <instance_name>dev262195</instance_name>
+        <name>sys_user_role_19e2973787c2c2d03a37ec283cbb3586</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_958569_biblio.library_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>library_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 21:31:53</sys_created_on>
+        <sys_id>19e2973787c2c2d03a37ec283cbb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_958569_biblio.library_user</sys_name>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</sys_scope>
+        <sys_update_name>sys_user_role_19e2973787c2c2d03a37ec283cbb3586</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 21:31:53</sys_updated_on>
+    </sys_user_role>
+</record_update>]]></payload>
+        <payload_hash>1309176151</payload_hash>
+        <record_name>x_958569_biblio.library_user</record_name>
+        <reverted_from/>
+        <source>597feef753721210944038f0a0490e08</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 21:55:28</sys_created_on>
+        <sys_id>bf7fe23b53721210944038f0a0490e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1943d9da3f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 21:55:28</sys_updated_on>
+        <type>Role</type>
+        <update_guid>7f7fe23b207212108400bfc62eb35911</update_guid>
+        <update_guid_history>7f7fe23b207212108400bfc62eb35911:1309176151</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_958569_biblio.library_user">9483437353f21210944038f0a0490e89</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 23:22:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>309f09e193dd41f9b2d2aceef92e51c1</sys_id>
+        <sys_metadata>19e2973787c2c2d03a37ec283cbb3586</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_958569_biblio.library_user</sys_name>
+        <sys_package display_value="Bibliothèque à domicile" source="x_958569_biblio">4f0790578746ce903a37ec283cbb35a0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bibliothèque à domicile">4f0790578746ce903a37ec283cbb35a0</sys_scope>
+        <sys_scope_delete display_value="">67bf5d8af99143548332d220406d72b9</sys_scope_delete>
+        <sys_update_name>sys_user_role_19e2973787c2c2d03a37ec283cbb3586</sys_update_name>
+        <sys_update_version display_value="sys_user_role_19e2973787c2c2d03a37ec283cbb3586">bf7fe23b53721210944038f0a0490e11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 23:22:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
